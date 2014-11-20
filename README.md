@@ -1,8 +1,6 @@
 Lucky
 =====
 
-Description
------------
 A Mac OS X application to fetch a line of a file randomly.
 
 Made for Mr. XuCen.
