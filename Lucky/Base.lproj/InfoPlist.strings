@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"CFBundleName" = "Lucky";
+"NSHumanReadableCopyright" = "Copyright © 2014 PrettyX.org. All rights reserved.";

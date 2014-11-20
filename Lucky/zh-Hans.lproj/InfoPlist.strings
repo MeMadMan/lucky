@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"CFBundleName" = "抽奖";
+"NSHumanReadableCopyright" = "版权所有 © 2014 PrettyX.org. 保留所有权利.";
